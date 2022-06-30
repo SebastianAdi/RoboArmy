@@ -1,0 +1,8 @@
+.mydiv {
+  overflow: scroll;
+  border: 3px solid black;
+  height: 600px;
+}
+.mydiv::-webkit-scrollbar {
+  display: none;
+}
